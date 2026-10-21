@@ -1,4 +1,7 @@
-.angular
-dist
-node_modules
-config.bat
+node_modules/
+.angular/
+dist/
+build/
+coverage/
+npm-cache/
+.DS_Store
